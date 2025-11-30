@@ -19,8 +19,8 @@ preferred: val, vel, lucifer ; ok: alastor
 ![Image of Emily and Sir Pentious in Hazbin Hotel season 2 song "Like You".](emily)
 ## <sub>working on...</sub>
 - [x] human vox
-- [ ] lucifer
-- [ ] shark onesie vox
+- [x] lucifer
+- [x] shark onesie vox
 - [ ] duck onesie lucifer
 - [ ] velvette
 - [ ] valentino
