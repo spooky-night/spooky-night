@@ -20,7 +20,7 @@ preferred ships: abel, st peter, charlie ; ok: lute
 > vox:
 preferred ships: val, vel, lucifer ; ok: alastor
 ```
-![Image of ROTTMNT turtles (Raph, Leo, Donnie, Mikey) laying on the grass.](group)
+![Image of ROTTMNT Leonardo and Donatello whispering to each other.](whisper)
 ## <sub>working on...</sub>
 - [ ] leonardo
 - [ ] raph
