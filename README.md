@@ -1,28 +1,36 @@
 # **loading data . . .**
-![Image of Vox during Hazbin Hotel season 1 song "Stayed Gone."](vox)
-*hugs and cuddles are OK, expect them back if you do* || ~~afk often~~ whisper to interact || `typically on` [*emily*](https://imgur.com/a/RCjRCoD) `or` [**VOX**](https://imgur.com/a/RCjRCoD)\
+![Image of the Disaster Twins (Leo and Donnie) by twitter user @ruby_mortensen."](disaster)
+*hugs and cuddles are OK, expect them back if you do* || ~~afk often~~ whisper to interact\
 \
 **byf** : might make nsfw jokes ♱ might make kms/kys jokes ♱ uses tone indicators\
 \
 *read basic dni*\
 \
 **ASK TO RP. DO NOT COME UP TO ME IN ROLEPLAY. PLEASE.**
-## **SHIPS**
+## **MY CHARACTERS**
+```
+> donnie:
+preferred int: leo!, raph, mikey, april, casey
+```
 ```
 > emily:
-preferred: abel, st peter, charlie ; ok: lute
+preferred ships: abel, st peter, charlie ; ok: lute
 ```
 ```
 > vox:
-preferred: val, vel, lucifer ; ok: alastor
+preferred ships: val, vel, lucifer ; ok: alastor
 ```
-![Image of Emily and Sir Pentious in Hazbin Hotel season 2 song "Like You".](emily)
+![Image of ROTTMNT turtles (Raph, Leo, Donnie, Mikey) laying on the grass.](group)
 ## <sub>working on...</sub>
-- [x] human vox
-- [x] lucifer
-- [x] shark onesie vox
-- [ ] duck onesie lucifer
-- [ ] velvette
+- [ ] leonardo
+- [ ] raph
+- [ ] mikey
+- [ ] jupiter jim ahoy! costumes
+- [ ] MM!donnie
+- [ ] MM!of all the other turtles this list is long okay
+## <sub>on the back burner...</sub>
+- [x] duck onesie lucifer
+- [x] velvette
 - [ ] valentino
 - [ ] charlie
 - [ ] vaggie
