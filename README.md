@@ -26,7 +26,7 @@ preferred ships: val, vel, lucifer ; ok: alastor
 - [ ] raph
 - [ ] mikey
 - [ ] jupiter jim ahoy! costumes
-- [ ] MM!donnie
+- [X] MM!donnie
 - [ ] MM!of all the other turtles this list is long okay
 ## <sub>on the back burner...</sub>
 - [x] duck onesie lucifer
