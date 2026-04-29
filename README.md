@@ -1,5 +1,5 @@
 # **loading data . . .**
-![Image of the Disaster Twins (Leo and Donnie) by twitter user @ruby_mortensen."](disaster)
+![Image of the TOTTMNT turtles in their Night Ninja costumes."](ninja)
 *hugs and cuddles are OK, expect them back if you do* || ~~afk often~~ whisper to interact\
 \
 **byf** : might make nsfw jokes ♱ might make kms/kys jokes ♱ uses tone indicators\
