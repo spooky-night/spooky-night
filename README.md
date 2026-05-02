@@ -13,6 +13,10 @@
 preferred int: leo, raph, mikey, april, casey
 ```
 ```
+> sigma:
+preferred int: honestly anyone in bsd,,,
+```
+```
 > emily:
 preferred ships: abel, st peter, charlie ; ok: lute
 ```
