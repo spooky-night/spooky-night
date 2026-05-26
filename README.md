@@ -1,6 +1,6 @@
 # **loading data . . .**
 ![Image of the TOTTMNT turtles in their Night Ninja costumes."](ninja)
-*hugs and cuddles are WELCOME, expect them back if you do. please sit with us. its kinda cool.* || whisper to interact as we may be afk\
+*hugs and cuddles ASK, expect them back if you do. please sit with us. its kinda cool.* || whisper to interact as we may be afk\
 \
 **byf** : might make nsfw jokes ♱ might make kms/kys jokes ♱ uses tone indicators\
 \
@@ -11,6 +11,7 @@
 ```
 > donnie:
 preferred int: leo, raph, mikey, april, casey
+please dni dbls on tales donnie. thank you ^^
 ```
 ```
 > sigma:
